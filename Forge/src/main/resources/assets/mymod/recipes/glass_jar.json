@@ -1,0 +1,27 @@
+{
+"type":"minecraft:crafting_shaped",
+
+"pattern":[
+	" C ",
+	"AAA",
+	"CCC"
+	],
+"key":{
+	"C":[
+	{
+		"item":"minecraft:coal",
+		"data":0
+	},
+	{
+	"item":"minecraft:coal",
+		"data":1
+	}
+	],
+	"A":{
+		"item":"minecraft:glass"
+	}
+},
+"result":{
+		"item":"mymod:glass_jar"
+	}
+}

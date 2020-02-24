@@ -1,0 +1,7 @@
+{
+	"variants":{	
+		"normal":{
+			"model" : "mymod:maya_block"
+		}
+	}
+}

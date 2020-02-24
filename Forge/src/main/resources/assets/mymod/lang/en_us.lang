@@ -1,0 +1,11 @@
+item.cheese.name=Cheese
+tile.cheese_block.name=CheeseBlock
+tile.maya_block.name=Maya
+item.cheese_cracker.name=Cheese Cracker
+tile.chair.name=Chair
+item.cracker.name=Cracker
+item.glass_jar.name=Glass Jar
+key.categories.mymod=CIS Demo Mod
+key.mymod.query=Query Block
+key.mymod.explode=Explode
+item.wand.name=Wand
