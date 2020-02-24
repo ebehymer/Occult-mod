@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+        	"name":"Satan",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 90,
+                    "name": "occultmod:gris_gris_bag"
+                },
+                {
+                    "type": "item",
+                    "weight": 10,
+                    "name": "occultmod:charm_stone"
+                }
+            ]
+        }
+    ]
+}

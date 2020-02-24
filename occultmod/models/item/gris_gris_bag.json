@@ -1,0 +1,9 @@
+{
+	"parent" : "item/generated",
+	
+	"textures" : {
+	
+	"layer0" : "occultmod:items/gris_gris_bag"
+	}
+
+}
